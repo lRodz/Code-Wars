@@ -10,10 +10,10 @@ public class Exercises {
          Scanner scanner = new Scanner(System.in);
          
          System.out.println("What is the first number?");
-         double a = scanner.nextInt();
+         double a = scanner.nextDouble();
          
          System.out.println("What is the second number?");
-         double b = scanner.nextInt();
+         double b = scanner.nextDouble();
          
          double c = a / b;
          
