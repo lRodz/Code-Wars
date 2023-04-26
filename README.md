@@ -7,3 +7,4 @@
 - Ex 6 - Write a Java program to print the area and perimeter of a circle.
 - Ex 7 - Write a Java program that takes three numbers as input to calculate and print the average of the numbers.
 - Ex 8 - Write a Java program to swap two variables.
+- Ex 9 - Write a Java program to add two binary numbers.
