@@ -12,3 +12,4 @@
 - Ex 11 - Write a Java program to convert a decimal number to a hexadecimal number.
 - Ex 12 - Write a Java program to convert a binary number to a decimal number.
 - Ex 13 - Write a Java program to convert a binary number to a hexadecimal number.
+- Ex 14 - Write a Java program to compare two numbers.
