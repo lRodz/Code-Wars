@@ -9,3 +9,4 @@
 - Ex 8 - Write a Java program to swap two variables.
 - Ex 9 - Write a Java program to add two binary numbers.
 - Ex 10 - Write a Java program to convert an integer number to a binary number.
+- Ex 11 - Write a Java program to convert a decimal number to a hexadecimal number.
