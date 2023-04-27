@@ -8,3 +8,4 @@
 - Ex 7 - Write a Java program that takes three numbers as input to calculate and print the average of the numbers.
 - Ex 8 - Write a Java program to swap two variables.
 - Ex 9 - Write a Java program to add two binary numbers.
+- Ex 10 - Write a Java program to convert an integer number to a binary number.
