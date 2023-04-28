@@ -14,3 +14,4 @@
 - Ex 13 - Write a Java program to convert a binary number to a hexadecimal number.
 - Ex 14 - Write a Java program to compare two numbers.
 - Ex 15 - Write a Java program and compute the sum of an integer's digits.
+- Ex 16 - Write a Java program to compute hexagon area.
