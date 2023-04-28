@@ -16,3 +16,4 @@
 - Ex 15 - Write a Java program and compute the sum of an integer's digits.
 - Ex 16 - Write a Java program to compute hexagon area.
 - Ex 17 - Write a Java program to compute the distance between two points on the earth's surface.
+- Ex 18 - Write a Java program to reverse a string.
