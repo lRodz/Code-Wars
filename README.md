@@ -18,3 +18,4 @@
 - Ex 17 - Write a Java program to compute the distance between two points on the earth's surface.
 - Ex 18 - Write a Java program to reverse a string.
 - Ex 19 - Write a Java program to count letters, spaces, numbers and other characters in an input string.
+- Ex 20 - Write a Java program to create and display a unique three-digit number using 1, 2, 3, 4. Also count how many three-digit numbers are there.
