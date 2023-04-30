@@ -17,3 +17,4 @@
 - Ex 16 - Write a Java program to compute hexagon area.
 - Ex 17 - Write a Java program to compute the distance between two points on the earth's surface.
 - Ex 18 - Write a Java program to reverse a string.
+- Ex 19 - Write a Java program to count letters, spaces, numbers and other characters in an input string.
