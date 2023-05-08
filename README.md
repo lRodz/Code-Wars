@@ -22,3 +22,4 @@
 - Ex 21 - Write a Java program to print the ASCII value of a given character.
 - Ex 22 - Write a Java program to accept a number and check whether the number is even or not. Prints 1 if the number is even or 0 if odd.
 - Ex 23 - Write a Java program to print numbers between 1 and 100 divisible by 3, 5 and both.
+- Ex 24 - Write a Java program that accepts three integers from the user and returns true if two or more of them have the same rightmost digit. The integers are non-negative.
