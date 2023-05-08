@@ -24,3 +24,4 @@
 - Ex 23 - Write a Java program to print numbers between 1 and 100 divisible by 3, 5 and both.
 - Ex 24 - Write a Java program that accepts three integers from the user and returns true if two or more of them have the same rightmost digit. The integers are non-negative.
 - Ex 25 - Write a Java program to convert seconds to hours, minutes and seconds.
+- Ex 26 - Write a Java program to find the number of values in a given range divisible by a given value.
