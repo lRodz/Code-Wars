@@ -1,0 +1,9 @@
+public class Kata {
+
+    public static int toBinary(int n) {
+
+        return Integer.parseInt(Integer.toBinaryString(n));
+
+    }
+
+}
